@@ -9,6 +9,20 @@
   </url>
   
   <url>
+    <loc>https://robin-lwx.github.io/categories/</loc>
+    <lastmod>2020-05-30T14:53:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robin-lwx.github.io/tags/mathtype/</loc>
+    <lastmod>2020-05-30T14:53:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://robin-lwx.github.io/post/mathtype%E7%A7%8D%E7%9A%84word%E6%8F%92%E4%BB%B6%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2020-05-30T14:53:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,13 +37,22 @@
   </url>
   
   <url>
-    <loc>https://robin-lwx.github.io/categories/</loc>
+    <loc>https://robin-lwx.github.io/tags/</loc>
+    <lastmod>2020-05-30T14:53:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://robin-lwx.github.io/tags/</loc>
+    <loc>https://robin-lwx.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-05-30T14:53:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://robin-lwx.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-05-30T14:53:16+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

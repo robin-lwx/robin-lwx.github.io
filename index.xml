@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
+    <title></title>
     <link>https://robin-lwx.github.io/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en</language>
     <lastBuildDate>Sat, 30 May 2020 14:53:16 +0800</lastBuildDate>
     
 	<atom:link href="https://robin-lwx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
+      <title>Mathtype的word插件问题</title>
       <link>https://robin-lwx.github.io/post/mathtype%E7%A7%8D%E7%9A%84word%E6%8F%92%E4%BB%B6%E9%97%AE%E9%A2%98/</link>
       <pubDate>Sat, 30 May 2020 14:53:16 +0800</pubDate>
       
